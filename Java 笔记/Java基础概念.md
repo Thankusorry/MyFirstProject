@@ -506,7 +506,7 @@ public class Example2_5
 
 ```
 
-![image-20240907213202008](image-20240907213202008.png)
+![image-20240907213202008](http://sjg9t98lf.hn-bkt.clouddn.com/202409091833449.png)
 
 ### 特殊类：
 
