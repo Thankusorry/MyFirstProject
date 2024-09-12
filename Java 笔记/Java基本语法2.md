@@ -4,7 +4,7 @@
 
 ##### 注意：优先级
 
-《图片》
+![java优先级](http://sjg9t98lf.hn-bkt.clouddn.com/运算符优先级java)
 
 尽可能用括号，表达更清楚。
 
