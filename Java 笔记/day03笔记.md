@@ -89,14 +89,7 @@ System.out.println(hundreds);
 
 ​	就是小的给大的，可以直接给。
 
-### 两种提升规则：
 
-* 取值范围小的，和取值范围大的进行运算，小的会先提升为大的，再进行运算。
-* **byte、short、char**三种类型的数据在运算的时候，**都会直接先提升为int**，然后再进行运算。
-
-### 取值范围从小到大的关系：
-
-​	byte short int long float double     <font color='depblue'> **（计系1 精度与范围）**</font>
 
 # 4.隐式转换的练习
 
